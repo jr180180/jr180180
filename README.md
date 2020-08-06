@@ -1,7 +1,7 @@
 ### Hi there, I'm John 👋
 
 ## I'm a Husband, Developer, and Entrepreneur!
-- 👨🏻‍💻 I’m usually working
+- 👨🏻‍💻 I’m usually working (or something along those lines... coding?)
 - 📖 Or learning about code and stuffs
 - ♥️ Love hanging with the fam
 - 🎯 Looking forward to contributing to awesome companies and overcoming challenging new things
