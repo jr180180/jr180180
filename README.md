@@ -44,7 +44,5 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jr180180&show_icons=true&hide_border=true" />
-
 [website]: https://johnsanchez.me
 [youtube]: https://www.youtube.com/channel/UC9wPK-mYxiONaPFgx_9vuMw
