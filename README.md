@@ -7,6 +7,8 @@
 - 🎯 Looking forward to contributing to awesome companies and overcoming challenging new things
 - 🏋🏼‍️ Working out keeps me sane 😅
 
+<img src="https://raw.githubusercontent.com/jr180180/jr180180/master/workout.gif">
+
 <br />
 
 ### Some Of My Languages and Tools:
