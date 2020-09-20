@@ -40,6 +40,8 @@
 [<img align="left" alt="JetBrains" width="26px" src="https://avatars0.githubusercontent.com/u/878437?s=25&v=4" />][youtube]
 [<img align="left" alt="LiveCode" width="26px" src="https://avatars1.githubusercontent.com/u/3985749?s=25&v=4" />][youtube]
 [<img align="left" alt="Ionic" width="26px" src="https://avatars0.githubusercontent.com/u/3171503?s=25&v=4" />][youtube]
+[<img align="left" alt="Python" width="26px" src="https://avatars0.githubusercontent.com/u/1525981?s=25&v=4" />][youtube]
+[<img align="left" alt="NumPy" width="26px" src="https://avatars3.githubusercontent.com/u/288276?s=25&v=4" />][youtube]
 
 <br />
 <br />
