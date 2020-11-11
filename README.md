@@ -6,7 +6,7 @@
 - 📖 Or learning about code and stuffs
 - ♥️ Love hanging with the fam
 - 🎯 Looking forward to contributing to awesome companies and overcoming challenging new things
-- 🏋🏼‍️ Working out keeps me sane 😅
+- 🏋🏼‍️ I'm always working so... workouts help keep me sane 😅
 
 <br />
 
