@@ -1,6 +1,7 @@
 ### Hi there, I'm John 👋
 
 <img src="https://raw.githubusercontent.com/jr180180/jr180180/master/workout.gif">
+
 - 👨🏻‍💻 I’m usually working (or something along those lines... coding?)
 - 📖 Or learning about code and stuffs
 - ♥️ Love hanging with the fam
