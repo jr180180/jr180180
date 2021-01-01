@@ -41,7 +41,7 @@
 [<img align="left" alt="Ionic" width="26px" src="https://avatars0.githubusercontent.com/u/3171503?s=25&v=4" />][youtube]
 [<img align="left" alt="Python" width="26px" src="https://avatars0.githubusercontent.com/u/1525981?s=25&v=4" />][youtube]
 [<img align="left" alt="NumPy" width="26px" src="https://avatars3.githubusercontent.com/u/288276?s=25&v=4" />][youtube]
-
+[<img align="left" alt="GoLang" width="26px" src="https://avatars1.githubusercontent.com/u/4314092?s=25&v=4" />][youtube]
 <br />
 <br />
 
