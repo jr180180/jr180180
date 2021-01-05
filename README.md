@@ -49,7 +49,7 @@
 
 [website]: https://johnsanchez.me
 [youtube]: https://www.youtube.com/channel/UC9wPK-mYxiONaPFgx_9vuMw
-[apple]: https://apple.com
+[mac]: https://apple.com
 [linux]: https://ubuntu.com/
 [rails]: https://rubyonrails.org/
 [ruby]: https://www.ruby-lang.org/en/
