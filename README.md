@@ -1,12 +1,14 @@
 ### Hi there, I'm John 👋
 
-<img src="https://raw.githubusercontent.com/jr180180/jr180180/master/workout.gif">
+<span style="display:block;text-align:center"><img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/source.gif"></span>
 
 - 👨🏻‍💻 I’m usually working (or something along those lines... coding?)
 - 📖 Or learning about code and stuffs
 - ♥️ Love hanging with the fam
 - 🎯 Looking forward to contributing to awesome companies and overcoming challenging new things
 - 🏋🏼‍️ I'm always working so... workouts help keep me sane 😅
+
+<span style="display:block;text-align:center"><img src="https://raw.githubusercontent.com/jr180180/jr180180/master/workout.gif"></span>
 
 <br />
 
