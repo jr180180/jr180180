@@ -3,7 +3,7 @@
 <p align="center"><img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/source.gif"></p>
 
 - 👨🏻‍💻 I’m usually working (or something along those lines... coding?)
-- 📖 Or learning about code... and stuffs
+- 📖 Or learning about code, devops, marketing, business... and other cool stuffs!
 - ♥️ Love hanging with the fam
 - 🎯 Looking forward to contributing to awesome companies and overcoming challenging new things
 - 🏋🏼‍️ I'm always working so... workouts help keep me sane 😅
