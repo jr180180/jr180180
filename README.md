@@ -1,14 +1,33 @@
 ### Hi there, I'm John 👋
 
+I'm a Senior Software and Marketing Engineer with extensive experience in helping start-ups crush it!
+
 <p align="center"><img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/source.gif"></p>
 
 - 👨🏻‍💻 I’m usually working (or something along those lines... coding?)
-- 📖 Or learning about code, devops, marketing, business... and other cool stuffs!
+- 📖 Or learning/talking about code, devops, marketing, business... and other cool stuffs!
+- 🍻 I've been creating software professionally since 2012
+- 🖥 I'm a software team lead
+- 📊 I run a client focused Dev shop
+- 🤷🏻‍♂️ Working towards securing all 11 AWS certifications
 - ♥️ Love hanging with the fam
 - 🎯 Looking forward to contributing to awesome companies and overcoming challenging new things
-- 🏋🏼‍️ I'm always working so... workouts help keep me sane 😅
+- 🏋🏼‍️ I'm always working so... family, workouts, and learning help keep me sane 😅
 
 <p align="center"><img src="https://raw.githubusercontent.com/jr180180/jr180180/master/workout.gif"></p>
+
+Some Memorable Accomplishments/Thoughts 🤔
+- Taught myself to code. This alone has helped to change the course of my life.
+- Have touch code in some fashion every day since early 2018. See Github contributions graph.
+- Been everything from a hard laborer, social media manager, customer care manager, fractional CTO, software developer, marketing developer, marketing analyst, and business owner. Being accomplished in these roles allows me to offer a unique point of view.
+- Mentored multiple people from no-knowledge to enough knowledge that allowed them to secure careers in the tech industry. I hope to help many more do the same!
+- Developed multiple software applications that were acquired
+- Setup systems for multiple clients that allowed them to scale to at least 500k MRR
+- Developed software applications that allowed clients to flourish through the pandemic
+- Played an essential role in building the funnels and architecting the systems behind helping a client go from $0 to $500k in a single month
+- Discovered and helped fix a ~500k billing issue through investigation and detailed report generation
+- Created software that automated complex jobs which allowed the teams to focus on other areas of the business. For example, I created a system that automated rendering Illustrator files dynamically on top of environment scenes. These were then used for ecommerce product images. Everything from the rendering to the product creation on Shopify was done automatically.
+- Extensive experience with building web integrations with Stripe, SendGrid, MailGun, Mandrill, Twilio, Klaviyo, Zendesk, AWS, Adobe, Shopify, Dropbox, OrderDesk, ShipStation, ShipEngine, Slack, MobileTextAlerts and sooo soo much more...
 
 <br />
 
@@ -46,6 +65,13 @@
 [<img align="left" alt="GoLang" width="26px" src="https://avatars1.githubusercontent.com/u/4314092?s=25&v=4" />][golang]
 <br />
 <br />
+
+My preferred stack is:
+- AWS
+- Ruby on Rails with Stimulus Reflex
+- PostgreSQL
+- Redis
+- Ionic with Angular
 
 ---
 
