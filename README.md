@@ -68,6 +68,7 @@ Some Memorable Accomplishments/Thoughts 🤔
 
 My preferred stack is:
 - AWS
+- Passenger with Nginx
 - Ruby on Rails with Stimulus Reflex
 - PostgreSQL
 - Redis
