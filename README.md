@@ -29,7 +29,7 @@ Some Memorable Accomplishments/Thoughts 🤔
 - Created software that automated complex jobs which allowed the teams to focus on other areas of the business. For example, I created a system that automated rendering Illustrator files dynamically on top of environment scenes. These were then used for ecommerce product images. Everything from the rendering to the product creation on Shopify was done automatically.
 - Extensive experience with building web integrations with Stripe, SendGrid, MailGun, Mandrill, Twilio, Klaviyo, Zendesk, AWS, Adobe, Shopify, Dropbox, OrderDesk, ShipStation, ShipEngine, Slack, MobileTextAlerts and sooo soo much more...
 
-<br />
+---
 
 ### Some Of My Languages and Tools:
 
@@ -66,13 +66,20 @@ Some Memorable Accomplishments/Thoughts 🤔
 <br />
 <br />
 
-My preferred stack is:
+#### My preferred stack is:
 - AWS
 - Passenger with Nginx
 - Ruby on Rails with Stimulus Reflex
 - PostgreSQL
 - Redis
 - Ionic with Angular
+
+---
+
+### Notable Certifications
+
+- 🩺 - Certification in HIPAA Awareness for Healthcare Providers
+- 🩺 - Certification in HIPAA Security
 
 ---
 
