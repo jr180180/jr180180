@@ -72,6 +72,7 @@ I'm a Senior Software and Marketing Engineer with extensive experience in helpin
 
 ### Some Memorable Accomplishments/Thoughts 🤔
 - Taught myself to code. This alone has helped to change the course of my life.
+- Coding professionally since 2012
 - Have touch code in some fashion every day since early 2018. See Github contributions graph.
 - Been everything from a hard laborer, social media manager, customer care manager, fractional CTO, software developer, marketing developer, marketing analyst, and business owner. Being accomplished in these roles allows me to offer a unique point of view.
 - Mentored multiple people from no-knowledge to enough knowledge that allowed them to secure careers in the tech industry. I hope to help many more do the same!
