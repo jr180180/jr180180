@@ -82,7 +82,7 @@ I'm a Senior Software and Marketing Engineer with extensive experience in helpin
 - Played an essential role in building the funnels and architecting the systems behind helping a client go from $0 to $500k in a single month
 - Discovered and helped fix a ~500k billing issue through investigation and detailed report generation
 - Created software that automated complex jobs which allowed the teams to focus on other areas of the business. For example, I created a system that automated rendering Illustrator files dynamically on top of environment scenes. These were then used for ecommerce product images. Everything from the rendering to the product creation on Shopify was done automatically.
-- Extensive experience with building web integrations with Stripe, SendGrid, MailGun, Mandrill, Twilio, Klaviyo, Zendesk, AWS, Adobe, Shopify, Dropbox, OrderDesk, ShipStation, ShipEngine, Slack, MobileTextAlerts and sooo soo much more...
+- Extensive experience with building web integrations with Stripe, Authorize.Net, InfusionSoft, Paypal, SendGrid, MailGun, Mandrill, Twilio, Klaviyo, Zendesk, AWS, Adobe, Shopify, Dropbox, OrderDesk, ShipStation, ShipEngine, Slack, MobileTextAlerts and sooo soo much more...
 
 
 [website]: https://johnsanchez.me
