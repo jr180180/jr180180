@@ -65,11 +65,7 @@ I'm a Senior Software and Marketing Engineer with extensive experience in helpin
 
 ### Notable Certifications
 
-[<img align="left" alt="AWS Certified Cloud Practitioner" width="60px" src="https://github.com/jr180180/jr180180/blob/master/aws-certified-cloud-practitioner.png?raw=true" />][aws_ccp]
-<br />
-<br />
-
-- 📜 - AWS Certified Cloud Practitioner
+- [<img alt="AWS Certified Cloud Practitioner" width="20px" src="https://github.com/jr180180/jr180180/blob/master/aws-certified-cloud-practitioner.png?raw=true" /> - AWS Certified Cloud Practitioner][aws_ccp]
 - 🩺 - Certification in HIPAA Awareness for Healthcare Providers
 - 🩺 - Certification in HIPAA Security
 
