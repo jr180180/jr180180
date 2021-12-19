@@ -65,6 +65,7 @@ I'm a Senior Software and Marketing Engineer with extensive experience in helpin
 
 ### Notable Certifications
 
+- 📜 - AWS Certified Cloud Practitioner
 - 🩺 - Certification in HIPAA Awareness for Healthcare Providers
 - 🩺 - Certification in HIPAA Security
 
