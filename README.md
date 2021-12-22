@@ -53,7 +53,7 @@ I'm a Senior Software and Marketing Engineer with extensive experience in helpin
 <br />
 <br />
 
-#### My preferred stack is:
+#### My preferred web dev stack is:
 - AWS
 - Passenger with Nginx
 - Ruby on Rails with Stimulus Reflex
