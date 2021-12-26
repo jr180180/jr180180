@@ -53,13 +53,10 @@ I'm a Senior Software and Marketing Engineer with extensive experience in helpin
 <br />
 <br />
 
-#### My preferred web dev stack is:
-- AWS
-- Passenger with Nginx
-- Ruby on Rails with Stimulus Reflex
-- PostgreSQL
-- Redis
-- Ionic with Angular
+#### Preferred web dev stacks:
+| Managed                                                                                                         | Serverless                                                                         |
+|-----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| AWS EC2, Passenger with Nginx, Ruby on Rails with Stimulus Reflex, PostgreSQL, Redis, Ionic with Angular | AWS Lambda with NodeJS/Ruby, AWS S3 with React/Angular, DynamoDB, AWS Cognito |
 
 ---
 
