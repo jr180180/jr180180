@@ -50,15 +50,13 @@ I'm a Senior Software and Marketing Engineer with extensive experience in helpin
 [<img align="left" alt="Python" width="26px" src="https://avatars0.githubusercontent.com/u/1525981?s=25&v=4" />][python]
 [<img align="left" alt="NumPy" width="26px" src="https://avatars3.githubusercontent.com/u/288276?s=25&v=4" />][numpy]
 [<img align="left" alt="GoLang" width="26px" src="https://avatars1.githubusercontent.com/u/4314092?s=25&v=4" />][golang]
-<br />
-<br />
 
-##### Technologies I've worked with include but not limited to...
+<br />
+<br />
+<br />
+<br />
 
 Ruby, Ruby on Rails, PHP, Laravel, Javascript, JQuery, ReactJs, Angular, Ionic, CSS, Sass, Bootstrap, TailwindCSS, NodeJS, JSON, Python, LiveCode, Bash, Git, Github, PostgreSQL, MySQL, DynamoDB, AWS, AWS Lambda, AWS RDS, AWS EC2, AWS Cloudformation, AWS Elastic Beanstalk, Go, JetBrains IDEs, Vim, ZSH, Heroku, HatchboxIO, Stimulus JS, Stimulus Reflex, Hotwire/Turbo, Websockets
-
-<br />
-<br />
 
 #### Preferred Stacks:
 | Managed                            | Serverless                  |
