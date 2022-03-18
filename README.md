@@ -59,13 +59,13 @@ I'm a Senior Software and Marketing Engineer with extensive experience in helpin
 Ruby, Ruby on Rails, PHP, Laravel, Javascript, JQuery, ReactJs, Angular, Ionic, CSS, Sass, Bootstrap, TailwindCSS, NodeJS, JSON, Python, LiveCode, Bash, Git, Github, PostgreSQL, MySQL, DynamoDB, AWS, AWS Lambda, AWS RDS, AWS EC2, AWS Cloudformation, AWS Elastic Beanstalk, Go, JetBrains IDEs, Vim, ZSH, Heroku, HatchboxIO, Stimulus JS, Stimulus Reflex, Hotwire/Turbo, Websockets
 
 #### Preferred Stacks:
-| Managed                            | Serverless                  |
-|------------------------------------|-----------------------------|
-| AWS EC2                            | AWS Lambda with NodeJS/Ruby |
-| Passenger with Nginx               | AWS S3 with React/Angular   |
-| Ruby on Rails with Stimulus Reflex | DynamoDB                    |
-| PostgreSQL + Redis                 | AWS Cognito                 |
-| Ionic with Angular                 |                             |
+| Managed                                 | Serverless                       |
+|-----------------------------------------|----------------------------------|
+| AWS EC2 + Cloudformation or Hatchbox    | AWS Lambda with NodeJS/Ruby      |
+| Passenger with Nginx                    | API Gateway + AWS Cognito        |
+| PostgreSQL + Redis                      | DynamoDB, Aurora PostgreSQL      |
+| Ruby on Rails, Stimulus Reflex, Sidekiq | AWS S3 with React/Angular        |
+| Ionic with Angular                      | AWS SNS, CloudWatch, EventBridge |
 
 ---
 
