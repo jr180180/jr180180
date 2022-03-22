@@ -7,7 +7,7 @@ I'm a Senior Software and Marketing Engineer with extensive experience in helpin
 - 👨🏻‍💻 I’m usually working (or something along those lines... coding?)
 - 📖 Or learning/talking about code, devops, marketing, business... and other cool stuffs!
 - 🍻 I've been creating software professionally since 2012
-- 🖥 I'm a software team lead
+- 🖥 I'm an experienced engineer and team lead
 - 📊 I run a client focused Dev shop
 - 🤷🏻‍♂️ Working towards securing all 11 AWS certifications
 - ♥️ Love hanging with the fam
