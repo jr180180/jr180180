@@ -1,6 +1,6 @@
 ### Hi there, I'm John 👋
 
-I'm a Senior Software and Marketing Engineer with extensive experience in helping start-ups crush it!
+I'm a Director of Engineering, Senior Software Engineer, and Solutions Architect with extensive experience in helping start-ups crush it!
 
 <p align="center"><img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/source.gif"></p>
 
@@ -84,7 +84,7 @@ Ruby, Ruby on Rails, PHP, Laravel, Javascript, JQuery, ReactJs, Angular, Ionic, 
 - Been everything from a hard laborer, social media manager, customer care manager, fractional CTO, project manager, software team lead, software developer, marketing developer, marketing analyst, and business owner. Being accomplished in these roles allows me to offer a unique point of view.
 - Mentored multiple people from no-knowledge to enough knowledge that allowed them to secure careers in the tech industry. I hope to help many more do the same!
 - Developed multiple software applications that were acquired
-- Setup systems for several clients that allowed them to scale to at least 500k MRR
+- Created systems for several clients that allowed them to quickly scale to a minimum of 500k MRR
 - Developed software applications that allowed clients to flourish through the pandemic
 - Played an essential role in building the funnels and architecting the systems behind helping a client go from $0 to $500k in a single month
 - Discovered and helped fix a ~500k billing issue through investigation and detailed report generation
