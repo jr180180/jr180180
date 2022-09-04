@@ -77,21 +77,6 @@ Ruby, Ruby on Rails, PHP, Laravel, Javascript, JQuery, ReactJs, Angular, Ionic, 
 
 ---
 
-### Some Memorable Accomplishments/Thoughts 🤔
-- Taught myself to code. This alone has helped to change the course of my life.
-- Coding professionally since 2012
-- Have touched code in some fashion every day since early 2018. See Github contributions graph.
-- Been everything from a hard laborer, social media manager, customer care manager, fractional CTO, project manager, software team lead, software developer, marketing developer, marketing analyst, and business owner. Being accomplished in these roles allows me to offer a unique point of view.
-- Mentored multiple people from no-knowledge to enough knowledge that allowed them to secure careers in the tech industry. I hope to help many more do the same!
-- Developed multiple software applications that were acquired
-- Created systems for several clients that allowed them to quickly scale to a minimum of 500k MRR
-- Developed software applications that allowed clients to flourish through the pandemic
-- Played an essential role in building the funnels and architecting the systems behind helping a client go from $0 to $500k in a single month
-- Discovered and helped fix a ~500k billing issue through investigation and detailed report generation
-- Created software that automated complex jobs which allowed the teams to focus on other areas of the business.
-- Extensive experience with building web integrations with Stripe, Authorize.Net, InfusionSoft, Paypal, SendGrid, MailGun, Mandrill, Twilio, Klaviyo, Zendesk, AWS, Adobe, Shopify, Dropbox, OrderDesk, ShipStation, ShipEngine, Slack, MobileTextAlerts and sooo soo much more...
-
-
 [website]: https://johnsanchez.me
 [youtube]: https://www.youtube.com/channel/UC9wPK-mYxiONaPFgx_9vuMw
 [mac]: https://apple.com
