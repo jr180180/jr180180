@@ -62,10 +62,10 @@ Ruby, Ruby on Rails, PHP, Laravel, Javascript, JQuery, ReactJs, Angular, Ionic, 
 | Managed                                 | Serverless Lambda                | Serverless ECS          |
 |-----------------------------------------|----------------------------------|-------------------------|
 | AWS EC2 + Cloudformation or Hatchbox    | AWS Lambda with NodeJS/Ruby      | AWS ECS + Fargate       |
-| Passenger with Nginx                    | AWS SAM w/ API Gateway + Cognito | Docker                  |
+| Passenger with Nginx                    | AWS SAM w/ API Gateway + Cognito | AWS Copilot + Docker    |
 | PostgreSQL + Redis                      | DynamoDB, Aurora PostgreSQL      | Puma/Passenger + Nginx  |
 | Ruby on Rails, Stimulus Reflex, Sidekiq | AWS S3 with React/Angular        | Ruby on Rails + Sidekiq |
-| Ionic with Angular                      | AWS SNS, CloudWatch, EventBridge | AWS Copilot             |
+| Ionic with Angular                      | AWS SNS, CloudWatch, EventBridge | AWS RDS w/ PostgreSQL   |
 
 ---
 
