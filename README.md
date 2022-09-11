@@ -59,13 +59,13 @@ I'm a Director of Engineering, Principle Software Engineer, and Solutions Archit
 Ruby, Ruby on Rails, PHP, Laravel, Javascript, JQuery, ReactJs, Angular, Ionic, CSS, Sass, Bootstrap, TailwindCSS, NodeJS, JSON, Python, LiveCode, Bash, Git, Github, PostgreSQL, MySQL, DynamoDB, AWS, AWS Lambda, AWS RDS, AWS EC2, AWS Cloudformation, AWS Elastic Beanstalk, Go, JetBrains IDEs, Vim, ZSH, Heroku, HatchboxIO, Stimulus JS, Stimulus Reflex, Hotwire/Turbo, Websockets
 
 #### Preferred Stacks:
-| Managed                                 | Serverless                       |
-|-----------------------------------------|----------------------------------|
-| AWS EC2 + Cloudformation or Hatchbox    | AWS Lambda with NodeJS/Ruby      |
-| Passenger with Nginx                    | API Gateway + AWS Cognito        |
-| PostgreSQL + Redis                      | DynamoDB, Aurora PostgreSQL      |
-| Ruby on Rails, Stimulus Reflex, Sidekiq | AWS S3 with React/Angular        |
-| Ionic with Angular                      | AWS SNS, CloudWatch, EventBridge |
+| Managed                                 | Serverless Lambda                | Serverless ECS          |
+|-----------------------------------------|----------------------------------|-------------------------|
+| AWS EC2 + Cloudformation or Hatchbox    | AWS Lambda with NodeJS/Ruby      | AWS ECS + Fargate       |
+| Passenger with Nginx                    | AWS SAM w/ API Gateway + Cognito | Docker                  |
+| PostgreSQL + Redis                      | DynamoDB, Aurora PostgreSQL      | Puma/Passenger + Nginx  |
+| Ruby on Rails, Stimulus Reflex, Sidekiq | AWS S3 with React/Angular        | Ruby on Rails + Sidekiq |
+| Ionic with Angular                      | AWS SNS, CloudWatch, EventBridge | AWS Copilot             |
 
 ---
 
