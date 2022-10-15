@@ -9,7 +9,7 @@ I'm a Director of Engineering, Software Engineer, and Solutions Architect with e
 - 🍻 I've been creating software professionally since 2012
 - 🖥 I'm an experienced engineer and team lead
 - 📊 I run a client focused Dev shop
-- 🤷🏻‍♂️ Working towards securing all 11 AWS certifications
+- 🤷🏻‍♂️ Working towards securing all 12 AWS certifications
 - ♥️ Love hanging with the fam
 - 🎯 Looking forward to contributing to awesome companies and overcoming challenging new things
 - 🏋🏼‍️ I'm always working so... family, workouts, and learning help keep me sane 😅
