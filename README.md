@@ -72,7 +72,7 @@ Ruby, Ruby on Rails, PHP, Laravel, Javascript, JQuery, ReactJs, Angular, Ionic, 
 ### Notable Certifications
 
 - [<img alt="AWS Certified Cloud Practitioner" width="20px" src="https://github.com/jr180180/jr180180/blob/master/aws-certified-cloud-practitioner.png?raw=true" /> - AWS Certified Cloud Practitioner][aws_ccp]
-- <img alt="AAWS Partner: Accreditation (Technical)" width="20px" src="https://github.com/jr180180/jr180180/blob/master/AWS-Partner-Technical-icon.jpg?raw=true" /> AWS Partner: Accreditation (Technical)
+- <img alt="AAWS Partner: Accreditation (Technical)" width="20px" src="https://github.com/jr180180/jr180180/blob/master/AWS-Partner-Technical-icon.jpg?raw=true" /> - AWS Partner: Accreditation (Technical)
 - 🩺 - Certification in HIPAA Awareness for Healthcare Providers
 - 🩺 - Certification in HIPAA Security
 
