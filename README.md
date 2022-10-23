@@ -74,7 +74,7 @@ Ruby, Ruby on Rails, PHP, Laravel, Javascript, JQuery, ReactJs, Angular, Ionic, 
 - [<img alt="AWS Certified Cloud Practitioner" width="20px" src="https://github.com/jr180180/jr180180/blob/master/aws-certified-cloud-practitioner.png?raw=true" /> - AWS Certified Cloud Practitioner][aws_ccp]
 - [<img alt="AAWS Partner: Accreditation (Technical)" width="20px" src="https://github.com/jr180180/jr180180/blob/master/AWS-Partner-Technical-icon.jpg?raw=true" /> - AWS Partner: Accreditation (Technical)][aws_at]
 - [<img alt="AWS Partner: Sales Accreditation (Business)" width="20px" src="https://github.com/jr180180/jr180180/blob/master/AWS-Partner-Technical-icon.jpg?raw=true" /> - AWS Partner: Sales Accreditation (Business)][aws_sa]
-- <img alt="Migration Ambassador Foundations (Business)" width="20px" src="https://github.com/jr180180/jr180180/blob/master/AWS-Partner-Technical-icon.jpg?raw=true" /> - Migration Ambassador Foundations (Business)
+- [<img alt="Migration Ambassador Foundations (Business)" width="20px" src="https://github.com/jr180180/jr180180/blob/master/AWS-Partner-Technical-icon.jpg?raw=true" /> - Migration Ambassador Foundations (Business)][aws_ma]
 - 🩺 - Certification in HIPAA Awareness for Healthcare Providers
 - 🩺 - Certification in HIPAA Security
 
@@ -114,3 +114,4 @@ Ruby, Ruby on Rails, PHP, Laravel, Javascript, JQuery, ReactJs, Angular, Ionic, 
 [aws_ccp]:https://www.credly.com/badges/8c592703-ee94-45ec-a6ae-8962f138b0b3/public_url
 [aws_at]:https://www.credly.com/badges/c205c9b3-4517-4607-99db-97f358e9a275/public_url
 [aws_sa]:https://www.credly.com/badges/b4e55514-26ee-4115-9722-d95b5331e86a/public_url
+[aws_ma]:https://www.credly.com/badges/e60a3031-3b79-426b-86cf-fd3ff69a5973/public_url
