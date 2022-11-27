@@ -11,7 +11,7 @@ I'm a Director of Engineering, Software Engineer, and Solutions Architect with e
 - 📊 I ran a client focused Dev shop
 - 🤷🏻‍♂️ Working towards securing all 12 AWS certifications
 - ♥️ Love hanging with the fam
-- 🎯 Looking forward to contributing to awesome companies and overcoming challenging new things
+- 🎯 Looking forward to contributing and overcoming challenging new things
 - 🏋🏼‍️ I'm always working so... family, workouts, and learning help keep me sane 😅
 
 <p align="center"><img src="https://raw.githubusercontent.com/jr180180/jr180180/master/workout.gif"></p>
