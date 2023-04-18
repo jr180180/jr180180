@@ -16,6 +16,11 @@ I'm a CTO, Software Engineer, and Solutions Architect with extensive experience 
 
 <p align="center"><img src="https://raw.githubusercontent.com/jr180180/jr180180/master/workout.gif"></p>
 
+> “Nothing in life is more important than the ability to communicate the urgency of finding a cure for those who suffer from the devastating effects of disease. Our work, our words, and our actions can inspire hope and ultimately save lives.” - Michael J. Fox
+
+I believe we can pool our knowledge and make a positive difference in the world.
+
+
 ---
 
 ### Some Of My Languages and Tools:
