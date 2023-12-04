@@ -64,13 +64,13 @@ I believe we can pool our knowledge and make a positive difference in the world.
 Ruby, Ruby on Rails, PHP, Laravel, Javascript, JQuery, ReactJs, Angular, Ionic, CSS, Sass, Bootstrap, TailwindCSS, NodeJS, JSON, Python, LiveCode, Bash, Git, Github, PostgreSQL, MySQL, DynamoDB, AWS, AWS Lambda, AWS RDS, AWS EC2, AWS Cloudformation, AWS Elastic Beanstalk, Go, JetBrains IDEs, Vim, ZSH, Heroku, HatchboxIO, Stimulus JS, Stimulus Reflex, Hotwire/Turbo, Websockets
 
 #### Preferred Stacks:
-| Managed                                 | Serverless Lambda                | Serverless ECS          |
-|-----------------------------------------|----------------------------------|-------------------------|
-| AWS EC2 + Cloudformation or Hatchbox    | AWS Lambda with NodeJS/Ruby      | AWS ECS + Fargate       |
-| Passenger with Nginx                    | AWS SAM w/ API Gateway + Cognito | AWS Copilot + Docker    |
-| PostgreSQL + Redis                      | DynamoDB, Aurora PostgreSQL      | Puma/Passenger + Nginx  |
-| Ruby on Rails, Stimulus Reflex, Sidekiq | AWS S3 with React/Angular        | Ruby on Rails + Sidekiq |
-| Ionic with Angular                      | AWS SNS, CloudWatch, EventBridge | AWS RDS w/ PostgreSQL   |
+| Managed                                 | Serverless Lambda                | Serverless ECS          | Static HTML               |
+|-----------------------------------------|----------------------------------|-------------------------|---------------------------|
+| AWS EC2 + Cloudformation or Hatchbox    | AWS Lambda with NodeJS/Ruby      | AWS ECS + Fargate       | HTML, CSS, Javascript     |
+| Passenger with Nginx                    | AWS SAM w/ API Gateway + Cognito | AWS Copilot + Docker    | AWS S3 + Cloudfront       |
+| PostgreSQL + Redis                      | DynamoDB, Aurora PostgreSQL      | Puma/Passenger + Nginx  | AWS CodeBuild             |
+| Ruby on Rails, Stimulus Reflex, Sidekiq | AWS S3 with React/Angular        | Ruby on Rails + Sidekiq | AWS Code Pipeline         |
+| Ionic with Angular                      | AWS SNS, CloudWatch, EventBridge | AWS RDS w/ PostgreSQL   | AWS Lambda w/ API Gateway |
 
 ---
 
