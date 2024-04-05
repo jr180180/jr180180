@@ -83,6 +83,11 @@ Ruby, Ruby on Rails, PHP, Laravel, Javascript, JQuery, ReactJs, Angular, Ionic, 
 - 🩺 - Certification in HIPAA Awareness for Healthcare Providers
 - 🩺 - Certification in HIPAA Security
 
+### Hands-On Organizational Certification Experience
+
+- SOC 2
+- HIPAA
+
 ---
 
 [website]: https://johnsanchez.me
