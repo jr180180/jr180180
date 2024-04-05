@@ -83,7 +83,7 @@ Ruby, Ruby on Rails, PHP, Laravel, Javascript, JQuery, ReactJs, Angular, Ionic, 
 - 🩺 - Certification in HIPAA Awareness for Healthcare Providers
 - 🩺 - Certification in HIPAA Security
 
-### Hands-On Organizational Certification Experience
+### Hands-On Organization Level Certifications
 
 - SOC 2
 - HIPAA
