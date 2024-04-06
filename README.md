@@ -86,7 +86,6 @@ Ruby, Ruby on Rails, PHP, Laravel, Javascript, JQuery, ReactJs, Angular, Ionic, 
 ### Hands-On Organization Level Certifications
 
 - SOC 2
-- HIPAA
 
 ---
 
