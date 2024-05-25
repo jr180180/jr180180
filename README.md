@@ -20,6 +20,7 @@ I'm a CTO, Software Engineer, and Solutions Architect with extensive experience 
 
 I believe we can pool our knowledge and make a positive difference in the world.
 
+LinkedIn: [https://www.linkedin.com/in/john-sanchez-eng/](https://www.linkedin.com/in/john-sanchez-eng/)
 
 ---
 
