@@ -1,6 +1,6 @@
 ### Hi there, I'm John 👋
 
-I'm a CTO, Software Engineer, and Solutions Architect with extensive experience in helping start-ups crush it!
+I'm a former CTO, Software Engineer, and Solutions Architect with extensive experience in helping start-ups crush it!
 
 <p align="center"><img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/source.gif"></p>
 
