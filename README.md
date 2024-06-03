@@ -6,7 +6,7 @@ I'm a former CTO, Software Engineer, and Solutions Architect with extensive expe
 
 - 👨🏻‍💻 I’m usually working (or something along those lines... coding?)
 - 📖 Or learning/talking about code, devops, marketing, business... and other cool stuffs!
-- 🍻 I've been creating software professionally since 2012
+- 🍻 I've been creating software professionally since 2011 and as a hobby since 10 years old
 - 🖥 I'm an experienced engineer and team lead
 - 📊 I ran a client focused Dev shop
 - 🤷🏻‍♂️ Working towards securing all 12 AWS certifications
