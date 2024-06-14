@@ -69,7 +69,7 @@ Ruby, Ruby on Rails, PHP, Laravel, Javascript, JQuery, ReactJs, React Native, An
 |-----------------------------------------|----------------------------------|-------------------------|---------------------------|
 | AWS EC2 + Cloudformation or Hatchbox    | AWS Lambda with NodeJS/Ruby      | AWS ECS + Fargate       | HTML, CSS, Javascript     |
 | Passenger with Nginx                    | AWS SAM w/ API Gateway + Cognito | AWS Copilot + Docker    | AWS S3 + Cloudfront       |
-| PostgreSQL + Redis                      | DynamoDB, Aurora PostgreSQL      | Puma/Passenger + Nginx  | AWS CodeBuild             |
+| PostgreSQL + Redis                      | DynamoDB, Aurora PostgreSQL      | Puma/Passenger + Nginx  | AWS CodeBuild for React, Ionic, TailwindCSS |
 | Ruby on Rails, Stimulus Reflex, Sidekiq | AWS S3 with React/Angular        | Ruby on Rails + Sidekiq | AWS Code Pipeline         |
 | Ionic with Angular                      | AWS SNS, CloudWatch, EventBridge | AWS RDS w/ PostgreSQL   | AWS Lambda w/ API Gateway |
 
