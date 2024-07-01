@@ -62,7 +62,7 @@ LinkedIn: [https://www.linkedin.com/in/john-sanchez-eng/](https://www.linkedin.c
 <br />
 <br />
 
-Ruby, Ruby on Rails, PHP, Laravel, Javascript, JQuery, ReactJs, React Native, Angular, Ionic, CSS, Sass, Bootstrap, TailwindCSS, NodeJS, JSON, Python, LiveCode, Bash, Git, Github, PostgreSQL, MySQL, DynamoDB, AWS, AWS Lambda, AWS RDS, AWS EC2, AWS ECS, AWS Cloudformation, AWS Elastic Beanstalk, AWS Lambda, Go, JetBrains IDEs, Vim, ZSH, Heroku, HatchboxIO, Stimulus JS, Stimulus Reflex, Hotwire/Turbo, Websockets, Docker, Ubuntu, RedHat, Mac, Windows, Kandji, Ninja RMM, Unix, Redis, NumPy, ChatGPT, Open API, Shopify API, DOMO
+Ruby, Ruby on Rails, PHP, Laravel, Javascript, JQuery, ReactJs, React Native, Angular, Ionic, CSS, Sass, Bootstrap, TailwindCSS, NodeJS, JSON, Python, LiveCode, Bash, Git, Github, PostgreSQL, MySQL, DynamoDB, AWS, AWS Lambda, AWS RDS, AWS EC2, AWS ECS, AWS Cloudformation, AWS Elastic Beanstalk, AWS Lambda, Go, JetBrains IDEs, Vim, ZSH, Heroku, HatchboxIO, Stimulus JS, Stimulus Reflex, Hotwire/Turbo, Websockets, Docker, Ubuntu, RedHat, Mac, Windows, Kandji, Ninja RMM, Unix, Redis, NumPy, ChatGPT, Open API, Shopify API, DOMO, Docker, Kubernetes, AWS Copilot, AWS WAF + BotControl, Amazon Inspector
 
 #### Preferred Stacks:
 | Managed                                 | Serverless Lambda                | Serverless ECS          | Static HTML               |
