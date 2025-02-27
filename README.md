@@ -21,8 +21,6 @@ I'm a Software Engineer and Solutions Architect with extensive experience in hel
 
 I believe we can pool our knowledge and make a positive difference in the world.
 
-LinkedIn: [https://www.linkedin.com/in/john-sanchez-eng/](https://www.linkedin.com/in/john-sanchez-eng/)
-
 ---
 
 ### Some Of My Languages and Tools:
