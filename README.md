@@ -8,8 +8,7 @@ I'm a Software Engineer and Solutions Architect with extensive experience in hel
 - 📖 Or learning/talking about code, devops, marketing, business... and other cool stuffs!
 - 🍻 I've been creating software professionally since 2011 and as a hobby since 10 years old
 - 🖥 I'm an experienced engineer and team lead
-- 📊 I ran a client focused Dev shop
-- 📈 A fan of running businesses and digital marketing challenges
+- 📈 A fan of digital marketing challenges
 - 🤷🏻‍♂️ Working towards securing all 12 AWS certifications
 - ♥️ Love hanging with the fam and helping others when able
 - 🎯 Looking forward to contributing and overcoming challenging new things
